@@ -1,0 +1,16 @@
+.wd-main-content {
+    margin: 12px 16px 16px 16px; /* check this */
+    border-color: rgb(47, 51, 54);
+    border-width: 1px 1px 0 1px;
+    border-style: solid;
+    height: auto;
+}
+
+.wd-body {
+    background-color: black;
+    margin: 0;
+}
+
+.wd-float-done {
+    clear: both;
+}

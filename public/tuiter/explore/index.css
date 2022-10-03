@@ -1,0 +1,138 @@
+.wd-search-group {
+    padding: 12px 16px 0 16px;
+}
+
+.wd-search {
+    border-radius: 25px;
+    color: white;
+    background-color: darkgray;
+    width: 450px;
+    height: 30px;
+    float: left;
+    text-indent: 10px;
+}
+
+.wd-settings {
+    float: right;
+    right: 12px;
+    color: rgb(29,161,242);
+    font-size: 30px;
+}
+
+.wd-settings:link {
+    text-decoration: none;
+}
+
+.wd-tab-group {
+    padding: 0 16px 20px 16px;
+    border-color: rgb(47, 51, 54);
+    border-width: 0 0 1px 0;
+    border-style: solid;
+}
+
+.wd-tab {
+    color: rgb(110, 118, 125);
+    font-size: 15px;
+    padding: 16px;
+    float: left;
+}
+
+.wd-tab:link {
+    text-decoration: none;
+}
+
+.wd-selected-tab {
+    color: rgb(29, 161, 242);
+    border-style: solid;
+    border-width: 0 0 5px 0;
+    border-color: rgb(29, 161, 242);
+}
+
+.wd-for-you {
+}
+
+.wd-c {
+    border-color: rgb(47, 51, 54);
+    border-width: 0 0 1px 0;
+    border-style: solid;
+    padding: 16px;
+}
+
+.wd-c-topic {
+    font-size: 13px;
+    color: rgb(110, 118, 125);
+    padding-bottom: 5px;
+}
+
+.wd-c-title {
+    font-size: 16px;
+    color: white;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+.wd-c-num-tuits {
+    font-size: 13px;
+    color: rgb(110, 118, 125);
+}
+
+.wd-d {
+    border-color: rgb(47, 51, 54);
+    border-width: 0 0 1px 0;
+    border-style: solid;
+    padding: 16px;
+}
+
+.wd-d-author {
+    font-size: 13px;
+    color: white;
+    float: left;
+    padding-bottom: 5px;
+}
+
+.wd-d-date-published {
+    font-size: 13px;
+    color: rgb(110, 118, 125);
+    padding-bottom: 5px;
+}
+
+.wd-d-title {
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+}
+
+.wd-d-image {
+    width: 100px;
+    height: 100px;
+    float: right;
+    border-radius: 25px;
+}
+
+.wd-e {
+    border-color: rgb(47, 51, 54);
+    border-width: 0 0 1px 0;
+    border-style: solid;
+    padding: 16px;
+}
+
+.wd-e-image {
+    width: 100px;
+    height: 100px;
+    float: right;
+    border-radius: 25px;
+}
+
+.wd-e-title {
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+}
+
+.wd-e-topic {
+    font-size: 13px;
+    color: rgb(110, 118, 125);
+    padding-bottom: 5px;
+}
+
+

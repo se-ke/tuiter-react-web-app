@@ -1,0 +1,134 @@
+.wd-page-header {
+    padding: 12px 16px 12px 16px;
+    border-width: 0 0 1px 0;
+    border-color: rgb(47, 51, 54);
+    border-style: solid;
+}
+
+.wd-page-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.wd-current-user-handle {
+    color: rgb(110, 118, 125);
+    font-size: 13px;
+}
+
+.wd-bookmark {
+    display: flex;
+    padding: 0 0 12px 0;
+    border-width: 0 0 1px 0;
+    border-color: rgb(47, 51, 54);
+    border-style: solid;
+}
+
+.wd-avatar-section {
+    height: 100%;
+}
+
+.wd-avatar {
+    margin: 12px 12px 0 16px;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+}
+
+.wd-content-section {
+    display: block;
+}
+
+.wd-post-header {
+    padding-bottom: 5px;
+    padding-top: 12px;
+    font-size: 15px;
+}
+
+.wd-post-author {
+    color: white;
+    float: left;
+    font-weight: bold;
+}
+
+.wd-post-author-handle-date-published {
+    font-size: 13px;
+    color: rgb(110, 118, 125);
+    padding-bottom: 5px;
+}
+
+.wd-post-main-content {
+    color: white;
+    font-size: 15px;
+    max-width: 506px;
+    padding: 0 16px 12px 0;
+}
+
+.wd-enhanced-link {
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: rgb(47, 51, 54);
+    border-style: solid;
+    width: 504px;
+}
+
+.wd-enhanced-link-image {
+    width: 504px;
+    height: 264px;
+    border-radius: 10px 10px 0 0;
+    border-width: 0 0 1px 0;
+    border-color: rgb(47, 51, 54);
+    border-style: solid;
+}
+
+.wd-enhanced-link-content {
+    padding: 12px;
+    font-size: 15px;
+}
+
+.wd-enhanced-link-content-title {
+    font-weight: bold;
+    color: white;
+    padding: 0 0 5px 0;
+}
+
+.wd-enhanced-link-content-main {
+    color: rgb(110, 118, 125);
+}
+
+.wd-enhanced-link-content-main:link {
+    text-decoration: none;
+}
+
+.wd-interaction-icons {
+    width: 100%;
+    padding: 12px 0 0 0;
+    font-size: 15px;
+    color: rgb(110, 118, 125);
+    display: flex;
+}
+
+.wd-interaction-group {
+    width: 25%;
+    display: flex;
+    color: rgb(110, 118, 125);
+}
+
+.wd-interaction-group:link {
+    text-decoration: none;
+}
+
+.wd-interaction-icon {
+    display: flex;
+    align-items: center;
+}
+
+.wd-interaction-icon-liked {
+    color: red;
+}
+
+.wd-interaction-icon-count {
+    display: flex;
+    align-items: center;
+    padding: 0 0 0 12px;
+}
